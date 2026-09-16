@@ -93,6 +93,7 @@ To run the project run the command below:
 $ uv run python -m main
 ```
 This will spawn the ETL and upload the data to the postgres database.
-
-![ETL database result](crypto_table.png)
-
+<figure>
+<img src ="crypto_table.png" alt="crypto table">
+<figcaption><i>crypto table</></figcaption>
+</figure>
